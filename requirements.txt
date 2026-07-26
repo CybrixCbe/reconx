@@ -1,6 +1,8 @@
 Flask==3.0.3
-dnspython==2.6.1
-whois==1.20240129.2
-beautifulsoup4==4.12.3
+Werkzeug==3.0.3
+gunicorn==22.0.0
 requests==2.32.3
-werkzeug==3.0.3
+dnspython==2.6.1
+python-whois==0.9.4
+beautifulsoup4==4.12.3
+lxml==5.2.2
